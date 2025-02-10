@@ -1,14 +1,14 @@
-LeetCode & CodeWars Solutions
+# LeetCode & CodeWars Solutions
 
 This repository contains my solutions to various coding challenges from LeetCode and CodeWars. I will be solving problems in both JavaScript and TypeScript.
 
-📁 File Structure
+## 📁 File Structure
 
 ├── /javascript # JavaScript solutions
 ├── /typescript # TypeScript solutions
 ├── /README # Additional documentation (if any)
 
-🚀 How to Use
+## 🚀 How to Use
 
 Clone the repository:
 
@@ -19,7 +19,7 @@ Navigate to the respective folder (js or ts) to view solutions.
 
 Each file is named according to the problem it solves.
 
-🛠️ How to Run Code
+## 🛠️ How to Run Code
 
 Make sure you have Node.js installed.
 
@@ -31,16 +31,16 @@ For TypeScript solutions:
 
 ts-node ts/solution-file.ts
 
-📌 Challenges Covered
+## 📌 Challenges Covered
 
 LeetCode: Algorithm, Data Structures, System Design
 
 CodeWars: Katas of varying difficulty levels
 
-📜 Contributions
+## 📜 Contributions
 
 Feel free to fork and contribute by submitting a pull request!
 
-⭐ Support
+## ⭐ Support
 
 If you find this repository useful, consider giving it a star ⭐!
